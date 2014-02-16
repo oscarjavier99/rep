@@ -42,6 +42,8 @@ public class AddToDoActivity extends Activity {
 	private EditText mTitleText;
 	private RadioButton mDefaultStatusButton;
 	private RadioButton mDefaultPriorityButton;
+	
+	//test with git
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
